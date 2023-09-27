@@ -1,1 +1,1 @@
-# API LINK: https://chocolate-management-mongo-express-server-jr6pvy247.vercel.app
+# API LINK: chocolate-management-mongo-express-server.vercel.app
